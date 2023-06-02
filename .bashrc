@@ -1,4 +1,4 @@
-echo "hola"
+echo "Bienvenido Claudio, tu puedes, es hora de trabajar !!"
 lukesetting() {
      code ~/.bashrc
 }
